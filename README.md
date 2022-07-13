@@ -1,2 +1,2 @@
-# windows-php-reverse-shell
+# Windows PHP Shell
 Simple Windows PHP webshell for IIS.
